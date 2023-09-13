@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414819019228",
+    "project_id": "sanrakshan-65fe5",
+    "storage_bucket": "sanrakshan-65fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414819019228:android:65df0dc2815b01d20b8719",
+        "android_client_info": {
+          "package_name": "com.example.sanrakshan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_K_dL6kP6kfxR3cf06UJBZmIZ1_7_7dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
